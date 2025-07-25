@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **React native Projects**
 
-- 🤝 I’m looking for help with **Application Development**
+- 🤝 I’m looking for help with **Lazy Loading and Efficient API Calls**
 
 - 👨‍💻 All of my projects are available at [https://deepkumar-patel-portfolio.netlify.app/](https://deepkumar-patel-portfolio.netlify.app/)
 
